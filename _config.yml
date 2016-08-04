@@ -1,0 +1,14 @@
+layout_spectrum: 0.6278921274933964
+typography_spectrum: 0.8657644020859152
+color:
+  brandStrength: 0.7024556125979871
+  lightness: 0.47682739957235754
+  saturation: 0.29211211460642517
+  rhythmicContrast: 0.6761420108377934
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: My new site
